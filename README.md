@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dejadejavu
 - 📝 I code in Python & a little Java
-- 🌱 I’m interested in learning Java 
+- 🌱 I’m currently learning Java 
