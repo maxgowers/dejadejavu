@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @dejadejavu
+- 👋 Hi, I’m Max (they/them)
+- 📚 I'm studying Computing Sciences at the University of East Anglia, Norwich, UK
 - 📝 I code primarily in Python
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java
